@@ -1,10 +1,10 @@
 # Site settings
-title: wwt
-SEOTitle: wwt
+title: Wentao Wang
+SEOTitle: Wentao Wang
 header-img: img/bg.jpg
 email: wwt10@pku.edu.cn
 #description: "Every failure is leading towards success."
-#keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+keyword: "Wentao Wang"
 url: "http://wwt17.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/wwt17/wwt17.github.io.git" # you code repository
@@ -23,7 +23,7 @@ sidebar: false                           # whether or not using Sidebar.
 github_username:    wwt17
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+twitter_username: wentaow10
 
 
 
