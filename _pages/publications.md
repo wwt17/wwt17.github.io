@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: and on-going works
-kinds: ["In prep.", "Submitted", "Older"]
+kinds: ["In prep.", "2023", "Older"]
 nav: true
 nav_order: 1
 ---
